@@ -1,3 +1,6 @@
+//Author: Mark P.
+//Last Updated: 2/9/19
+//Version 1.0
 #include <string>
 #include <bitset>
 #include <iostream>
